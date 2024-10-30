@@ -3,7 +3,7 @@
 numpy==1.26.4
 gradio==4.32.1
 opencv-python==4.9.0.80
-onnx==1.16.0
+onnx==1.17.0
 insightface==0.7.3
 psutil==5.9.6
 torch==2.1.2+cu118; sys_platform != 'darwin'
